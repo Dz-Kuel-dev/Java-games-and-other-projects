@@ -23,7 +23,6 @@ import java.util.Random;
 
 FÜRS NÄCHSTE MAL: schreib auf wie das spiel aussehen soll in paint: menü, funktionen, ...
 
-            https://merchant-shade.itch.io/16x16-mini-world-sprites
 
 FRAGEN: was ist mit den erstellten objekten(player1/2) während ich noch im loop bin?werden sie bei erneuten spiel wieder genutzt, gelöscht?es scheint zu funktioneren(für jetzt),aber wie ist das wenn ich mich registrieren will?
  */
@@ -585,4 +584,5 @@ private static String callComputerChoice(Player player, String playerChoice, Ran
             
             Player player2 = objRPS.new Player(createCharacters(objRPS, objScanner), randomFiveDigitNumber());
     
+
     */
