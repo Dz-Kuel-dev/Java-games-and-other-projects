@@ -63,7 +63,7 @@ public class Adressdaten {
             "Last Name: " + lname + "\n" +
             "Tel. Number: " + tel + "\n" +
             "E-mail Address: " + email + "\n" 
-    ;//why is this possible? what is wrong with java? 
+    ;
     
 
   }
