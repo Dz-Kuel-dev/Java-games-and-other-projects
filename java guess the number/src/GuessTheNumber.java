@@ -1,8 +1,5 @@
 import java.util.Scanner;
 
-/*
- https://www.perplexity.ai/search/gib-mir-spielevorschlager-die-5rzY7hRPSL6kKAMhgA5CKw
- */
 public class GuessTheNumber {
 
 
@@ -59,4 +56,5 @@ public class GuessTheNumber {
                               - bei do-while, da die in der schleife/block erstellte variable LOKAL ist 
                                 => bei nächstem durchgang zählt sie als andere variable, ABER es muss ja nach diesem durchgang 
                                 geprüft werden ob die bedingung stimmt, was nicht geht da es sich jz um eine andere uninitialisierte variable handelt 
+
          */
