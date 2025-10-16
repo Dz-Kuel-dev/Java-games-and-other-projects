@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Java Drawing Kirby/Java Malen Kirby.iml" filepath="$PROJECT_DIR$/Java Drawing Kirby/Java Malen Kirby.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java-games-and-other-projects.iml" filepath="$PROJECT_DIR$/.idea/Java-games-and-other-projects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java AddressBook/java Adressbuch.iml" filepath="$PROJECT_DIR$/java AddressBook/java Adressbuch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java SudentGradesMS/java SudentGradesMS.iml" filepath="$PROJECT_DIR$/java SudentGradesMS/java SudentGradesMS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java guess the number/java guess the number.iml" filepath="$PROJECT_DIR$/java guess the number/java guess the number.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java rps/java rock_paper_scissors.iml" filepath="$PROJECT_DIR$/java rps/java rock_paper_scissors.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java tictactoe/java tictactoe.iml" filepath="$PROJECT_DIR$/java tictactoe/java tictactoe.iml" />
+    </modules>
+  </component>
+</project>

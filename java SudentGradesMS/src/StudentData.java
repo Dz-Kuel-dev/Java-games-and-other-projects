@@ -193,28 +193,6 @@ public class StudentData {
   }
 
 
-
-
-
-
-
-  //grades
-
-
-
-
-/*   public class StudentGrades {
-
-    int maths;
-  
-  }  */
-
-
 }
 
-
-//illegal: class must have its own file or be in a nother class (sub-class?)
-/* public class StudentGrades {
-  
-} */
 

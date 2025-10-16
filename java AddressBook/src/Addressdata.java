@@ -1,4 +1,4 @@
-public class Adressdaten {
+public class Addressdata {
 
   private String fname;
   private String lname;
@@ -6,7 +6,7 @@ public class Adressdaten {
   private String email;
 
 
-  public Adressdaten (String newFname, String newLname, String newTel, String newEmail){
+  public Addressdata(String newFname, String newLname, String newTel, String newEmail){
 
     this.fname = newFname;
     this.lname = newLname;

@@ -189,13 +189,8 @@ public class StudentGrades {
   }
 
 
-//zwischen-noten
 
-int[] zwischen_noten = {};
-
-
-
-
+  int[] zwischen_noten = {};
 
 
 

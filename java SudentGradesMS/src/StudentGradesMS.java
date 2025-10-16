@@ -1,7 +1,7 @@
 public class StudentGradesMS {
-  //2. Student Grade Management System
-//Develop a program that allows users to input student information and grades, calculate averages, and display results. Implement classes for students and courses.
 
+  // a program that allows users to input student information and grades, calculate averages, and display results. Implement classes for students and courses.
+  //TODO: unfinished!
 
       public static void main(String[] args){
 
@@ -45,7 +45,6 @@ public class StudentGradesMS {
 
 //mach: zwischen-noten, mündlich/schriflich, durchschnitt gesammt-/zwischen-noten
 
-//wie kriege ich das in anderer classe hin?
         int[] array = new int[5];//mach ein 2-D array mit vektor rechnung bei dem die prozente vllt mit eingerechnet werden
             /*  schr., münd., tests,        Prozentuale Wertung
                   { {1, 4, 1},                { {0.5},
